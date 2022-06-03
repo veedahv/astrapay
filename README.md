@@ -2,6 +2,11 @@
 
 ## Project setup
 ```
+clone the repo
+```
+
+### Install project packages and dependencies
+```
 npm install
 ```
 
