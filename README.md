@@ -1,8 +1,15 @@
-# astrapay
+# Astrapay Front-End Engineer Assessment
+This is a mini web application for an admin portal. This app contains four (4) pages:
+- The Login Page.
+- The Dashboard Page.
+- The New Marketer Creation Page.
+- The Marketer Details Page.
 
 ## Project setup
+
+### clone the repo
 ```
-clone the repo
+git clone https://github.com/veedahv/astrapay.git
 ```
 
 ### Install project packages and dependencies
